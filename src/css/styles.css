@@ -18,3 +18,28 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+img {
+  display: inline-block;
+  margin-right: 10px;
+  max-width: 100%;
+  height: auto;
+}
+
+.country-list {
+  margin-left: -40px;
+  list-style: none;
+  font-size: 20px;
+}
+
+.country-name {
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
+}
+
+b {
+  margin-right: 5px;
+}
